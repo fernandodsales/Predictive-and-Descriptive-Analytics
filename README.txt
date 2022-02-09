@@ -1,5 +1,5 @@
 ====================================================================================================================
-Open Source - Group Project 
+Predictive and Descriptive analytics - Group Project 
 Fernando Delgado, Mario serrano, Harikrishnan Gopalakrishnan
 ====================================================================================================================
 This project folder presents the creation of a predictive and descrptivie analysis with python 
