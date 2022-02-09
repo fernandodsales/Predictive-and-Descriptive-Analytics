@@ -1,15 +1,16 @@
 ====================================================================================================================
 Open Source - Group Project 
-Fernando Delgado, Nithesh Ramanna, Aazad Ghoslya
+Fernando Delgado, Mario serrano, Harikrishnan Gopalakrishnan
 ====================================================================================================================
-This project folder presents the creation of a datamart code with R, a Shiny Application, and a Markdown Report File. 
+This project folder presents the creation of a predictive and descrptivie analysis with python 
 
-Group Assignment - Team 13	# Main folder of the project
 |
 +-- data			# Raw, and processed data
 |   +-- raw			# Raw data
 |   +-- processed		# Processed base-table
 |
-+-- docs			# Project Instructions and Markdown html report
++-- docs			# Project Instructions 
 |
-+-- src				# Source code: Datamart creation, Shiny Application Code, Markdown File Code
++-- src				# Source code: Cleaning Data, Modeling
+|
++-- ppt       #Final Presentation
